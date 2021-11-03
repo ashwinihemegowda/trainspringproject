@@ -1,0 +1,30 @@
+h3.c1{
+color : green;
+}
+body{
+background-image:url("train1.jpg");
+background-repeat : no-repeat;
+background-position: center;
+background-attachment:fixed;
+opacity:1;
+}
+
+a:link,a.hover{
+background-color:#33ffd4;
+border-radius:10px;
+padding:10px 20px;
+text-align:center;
+}
+
+p.double{
+border-left:8px solid green;
+background-color:lightblue;
+color:black;
+text-decoration:none;
+position:relative;
+border-radius:15px;
+font-family:"Times New Roman",Times,serif;
+font-size:25px;
+border-style:solid;
+
+}
